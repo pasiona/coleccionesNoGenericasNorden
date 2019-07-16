@@ -1,0 +1,11 @@
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\bin\Debug\netcoreapp2.1\Stack.deps.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\bin\Debug\netcoreapp2.1\Stack.runtimeconfig.dev.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\bin\Debug\netcoreapp2.1\Stack.dll
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\bin\Debug\netcoreapp2.1\Stack.pdb
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\obj\Debug\netcoreapp2.1\Stack.csprojAssemblyReference.cache
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\obj\Debug\netcoreapp2.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfoInputs.cache
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\obj\Debug\netcoreapp2.1\Stack.AssemblyInfo.cs
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\obj\Debug\netcoreapp2.1\Stack.dll
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Stack\obj\Debug\netcoreapp2.1\Stack.pdb

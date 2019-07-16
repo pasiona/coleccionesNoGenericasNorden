@@ -1,0 +1,10 @@
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\bin\Debug\netcoreapp2.1\Sortedlist.deps.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\bin\Debug\netcoreapp2.1\Sortedlist.runtimeconfig.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\bin\Debug\netcoreapp2.1\Sortedlist.runtimeconfig.dev.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\bin\Debug\netcoreapp2.1\Sortedlist.dll
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\bin\Debug\netcoreapp2.1\Sortedlist.pdb
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\obj\Debug\netcoreapp2.1\Sortedlist.csproj.CoreCompileInputs.cache
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\obj\Debug\netcoreapp2.1\Sortedlist.AssemblyInfoInputs.cache
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\obj\Debug\netcoreapp2.1\Sortedlist.AssemblyInfo.cs
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\obj\Debug\netcoreapp2.1\Sortedlist.dll
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Sortedlist\obj\Debug\netcoreapp2.1\Sortedlist.pdb

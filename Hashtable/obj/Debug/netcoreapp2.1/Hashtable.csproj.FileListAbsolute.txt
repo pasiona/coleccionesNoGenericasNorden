@@ -1,0 +1,11 @@
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\bin\Debug\netcoreapp2.1\Hashtable.deps.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\bin\Debug\netcoreapp2.1\Hashtable.runtimeconfig.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\bin\Debug\netcoreapp2.1\Hashtable.runtimeconfig.dev.json
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\bin\Debug\netcoreapp2.1\Hashtable.dll
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\bin\Debug\netcoreapp2.1\Hashtable.pdb
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\obj\Debug\netcoreapp2.1\Hashtable.csprojAssemblyReference.cache
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\obj\Debug\netcoreapp2.1\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\obj\Debug\netcoreapp2.1\Hashtable.AssemblyInfoInputs.cache
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\obj\Debug\netcoreapp2.1\Hashtable.AssemblyInfo.cs
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\obj\Debug\netcoreapp2.1\Hashtable.dll
+C:\Users\nmaachi\source\repos\presentacionColeccionesNoGenericas\Hashtable\obj\Debug\netcoreapp2.1\Hashtable.pdb
